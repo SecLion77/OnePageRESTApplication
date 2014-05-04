@@ -1,0 +1,5 @@
+.ropeproject/*
+.pydevproject
+.project
+*.un~
+
